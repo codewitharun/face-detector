@@ -9,8 +9,11 @@ and how camera is able to identify the actual human.
 This programme required some hardware , libraries , language which are
 
 PYTHON 3.+ .
+
 opencv-python
+
 numpy-python
+
 and any webcam.
 
 if there is webcame attached in system and is accesible then use port number 0 in cap = cv2.VideoCapture(0) .
